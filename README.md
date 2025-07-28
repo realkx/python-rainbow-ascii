@@ -12,6 +12,9 @@
 
 ## ⚡ Quick Start
 pip install colorama
+
 git clone https://github.com/realkx/python-rainbow-ascii.git
+
 cd python-rainbow-ascii
+
 python rainbow ascii.py
