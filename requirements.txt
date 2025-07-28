@@ -1,1 +1,2 @@
-colorama
+colorama         (pip install colorama)
+python           (pip install python)
