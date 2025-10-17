@@ -1,2 +1,2 @@
 colorama         (pip install colorama)
-python           (pip install python)
+python           (https://www.python.org/downloads/)
